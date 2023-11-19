@@ -1,0 +1,7 @@
+class LowercaseString{
+    public static void main(String args[]){
+        String str = "Yaman Sahota";
+        String ans = str.toLowerCase();
+        System.out.println(ans);
+    }
+}
