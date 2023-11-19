@@ -1271,3 +1271,9 @@ section {
   -webkit-user-select: none;
   touch-action: manipulation;
 } 
+p{
+  margin: 3%
+}
+h2{
+  margin: 2%;
+}
